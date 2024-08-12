@@ -21,3 +21,12 @@ p{
     color: red;
     font-size: 57px;
 }
+h1{
+    align-items: center;
+    color: blue;
+}
+p{
+    align-items: center;
+    font: medium;
+    color: black;
+}
