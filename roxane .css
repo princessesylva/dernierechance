@@ -7,3 +7,26 @@ p{
     font: medium;
     color: black;
 }
+.header{
+    background-color:rgb(222, 222, 231) ;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 1rem;
+    border-radius: 50px;
+    
+}
+.head  {
+    display: flex;
+    gap: 2rem;
+}
+.head li{
+    list-style: none;
+
+}
+.head li a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    font-weight: 400;}
