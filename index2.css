@@ -32,6 +32,19 @@
     text-transform: capitalize;
     color: brown;
 }
+p{
+    color: red;
+}
+h1{
+    align-items: center;
+    color: blue;
+}
+p{
+    align-items: center;
+    font: medium;
+    color: black;
+}
+
 .content{
     font-family: cursive;
 }
