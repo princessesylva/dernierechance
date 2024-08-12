@@ -3,6 +3,39 @@
     padding: 0;
     box-sizing: border-box;
 }
+.header{
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    padding: 1rem;
+}
+.head  {
+    display: flex;
+    gap: 1rem ;
+}
+.head li{
+    list-style: none;
+}
+.head li a{
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+}
+.para{
+    color: brown;
+    font-size: 1.5rem;
+    font-weight: 300;
+
+}
+.titre{
+    font-size: x-large;
+    text-transform: capitalize;
+    color: brown;
+}* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 
 body {
