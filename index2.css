@@ -16,22 +16,7 @@
 .head li{
     list-style: none;
 }
-.head li a{
-    text-decoration: none;
-    color: black;
-    font-size: x-large;
-}
-.para{
-    color: brown;
-    font-size: 1.5rem;
-    font-weight: 300;
 
-}
-.titre{
-    font-size: x-large;
-    text-transform: capitalize;
-    color: brown;
-}
 p{
     color: red;
     font-size: 57px;
