@@ -30,3 +30,14 @@ p{
     font: medium;
     color: black;
 }
+
+.content{
+    font-family: cursive;
+}
+.content h3{
+    text-align: center;
+    text-transform: capitalize;
+}
+.content p{
+    text-transform: uppercase;
+}
