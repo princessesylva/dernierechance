@@ -1,4 +1,4 @@
-h1{
+/* h1{
     align-items: center;
     color: blue;
 }
@@ -6,7 +6,7 @@ p{
     align-items: center;
     font: medium;
     color: black;
-}
+} */
 .header{
     background-color:rgb(222, 222, 231) ;
     display: flex;
